@@ -1,0 +1,9 @@
+<Route path="/general"><Cont1 pageSize={6} category={general}/></Route>
+<Route path="/entertainment"><Cont1 pageSize={6} category={general}/></Route>
+<Route path="/business"><Cont1 pageSize={6} category={general}/></Route>
+<Route path="/health"><Cont1 pageSize={6} category={general}/></Route>
+<Route path="/science"><Cont1 pageSize={6} category={general}/></Route>
+<Route path="/sports"><Cont1 pageSize={6} category={general}/></Route>
+<Route path="/technology"><Cont1 pageSize={6} category={general}/></Route>
+
+
